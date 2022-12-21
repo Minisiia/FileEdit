@@ -19,9 +19,7 @@ public class Main {
             int temp;
             for (; ; ) {
                 temp = bufferedReader.read();
-                if (temp == -1) {
-                    break;
-                }
+                if (temp == -1) break;
                 s += (char) temp;
             }
             System.out.println("Text from TextBufferedWriter.txt:");
@@ -41,9 +39,7 @@ public class Main {
             int temp;
             for (; ; ) {
                 temp = fileReader.read();
-                if (temp == -1) {
-                    break;
-                }
+                if (temp == -1) break;
                 s += (char) temp;
             }
             System.out.println("Text from TextFileWriter.txt:");
@@ -63,9 +59,7 @@ public class Main {
             int temp;
             for (; ; ) {
                 temp = reader.read();
-                if (temp == -1) {
-                    break;
-                }
+                if (temp == -1) break;
                 s += (char) temp;
             }
             System.out.println("Text from TextPrintWriter.txt:");
@@ -100,9 +94,7 @@ public class Main {
             int temp;
             for (; ; ) {
                 temp = br.read();
-                if (temp == -1) {
-                    break;
-                }
+                if (temp == -1) break;
                 s += (char) temp;
             }
             System.out.println("Text from TextFile.txt:");
