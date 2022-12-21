@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c57aa2f-e360-4e5b-a43d-25ffe5f1c1c1" name="Changes" comment="" />
+    <list default="true" id="3c57aa2f-e360-4e5b-a43d-25ffe5f1c1c1" name="Changes" comment="Java Advanced 3. IO &amp; Strings">
+      <change beforePath="$PROJECT_DIR$/src/file_edit/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/file_edit/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,10 +16,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2JE439LnUsTaR3z2N79vY30QJZN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -59,6 +65,29 @@
       <option name="presentableId" value="Default" />
       <updated>1671629708215</updated>
     </task>
+    <task id="LOCAL-00001" summary="Java Advanced 3. IO &amp; Strings">
+      <created>1671649792448</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671649792448</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java Advanced 3. IO &amp; Strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Advanced 3. IO &amp; Strings" />
   </component>
 </project>

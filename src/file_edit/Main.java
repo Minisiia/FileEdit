@@ -9,7 +9,6 @@ import java.nio.file.Paths;
 
 public class Main {
     public static void main(String[] args) {
-
                                                                     // BufferedWriter/ BufferedReader
         System.out.println("Edit TextBufferedWriter.txt");
         try (Writer bufferedWriter = new BufferedWriter(new FileWriter("src/file_edit/TextBufferedWriter.txt"));
