@@ -9,6 +9,8 @@ import java.nio.file.Paths;
 
 public class Main {
     public static void main(String[] args) {
+
+                                                                    // BufferedWriter/ BufferedReader
         System.out.println("Edit TextBufferedWriter.txt");
         try (Writer bufferedWriter = new BufferedWriter(new FileWriter("src/file_edit/TextBufferedWriter.txt"));
              Reader bufferedReader = new BufferedReader(new FileReader("src/file_edit/TextBufferedWriter.txt"))) {
@@ -27,7 +29,7 @@ public class Main {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        System.out.println("-----------------------------------");
+        System.out.println("-----------------------------------");  // FileWriter/ FileReader
 
         System.out.println("Edit TextFileWriter.txt");
         try (Writer fileWriter = new FileWriter("src/file_edit/TextFileWriter.txt");
@@ -47,7 +49,7 @@ public class Main {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        System.out.println("-----------------------------------");
+        System.out.println("-----------------------------------");  // PrintWriter/ BufferedReader
 
         System.out.println("Edit TextPrintWriter.txt");
         try (Writer printWriter = new PrintWriter("src/file_edit/TextPrintWriter.txt");
@@ -67,7 +69,7 @@ public class Main {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        System.out.println("-----------------------------------");
+        System.out.println("-----------------------------------");  // DataOutputStream/ DataInputStream
         System.out.println("Edit DataOutputStream.txt");
         try (DataOutputStream dataOutputStream = new DataOutputStream(new FileOutputStream("src/file_edit/DataOutputStream.txt"));
              DataInputStream dataInputStream = new DataInputStream(new FileInputStream("src/file_edit/DataOutputStream.txt"))) {
@@ -82,7 +84,7 @@ public class Main {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        System.out.println("-----------------------------------");
+        System.out.println("-----------------------------------");  // Files.newBufferedWriter/ Files.newBufferedReader
         System.out.println("Edit TextFile.txt");
         Path path = Paths.get("src/file_edit/TextFile.txt");
         try (BufferedWriter bw = Files.newBufferedWriter(path, StandardCharsets.UTF_8);
