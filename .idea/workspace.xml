@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3c57aa2f-e360-4e5b-a43d-25ffe5f1c1c1" name="Changes" comment="Java Advanced 3. IO &amp; Strings">
+      <change afterPath="$PROJECT_DIR$/src/file_edit/data/CombinedSequenceInputStream.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/file_edit/data/Person.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/file_edit/data/PushbackReader.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/file_edit/data/SequenceInputStream1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/file_edit/data/SequenceInputStream2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/file_edit/data/TextNIO.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/file_edit/handlers/HandlerIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/file_edit/handlers/HandlerNIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/file_edit/pojo/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/file_edit/DataOutputStream.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/file_edit/data/DataOutputStream.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/file_edit/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/file_edit/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/file_edit/TextBufferedWriter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/file_edit/data/TextBufferedWriter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/file_edit/TextFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/file_edit/data/TextFile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/file_edit/TextFileWriter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/file_edit/data/TextFileWriter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/file_edit/TextPrintWriter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/file_edit/data/TextPrintWriter.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,20 +47,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/itvdn Java/itvdn java professional/java-professional-materials/004_Basic_IO_NIO/004_Samples"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;last_opened_file_path&quot;: &quot;H:/java/IdeaProjects/4_3 Basic io, nio/FileEdit/src/file_edit/data&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\java\IdeaProjects\4_3 Basic io, nio\FileEdit\src\file_edit\data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\java\IdeaProjects\4_3 Basic io, nio\FileEdit\src\file_edit\data" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="file_edit.Main" />
       <module name="FileEdit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="file_edit.*" />
+          <option name="PATTERN" value="file_edit.handlers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,6 +97,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671629708215</updated>
+      <workItem from="1682272962780" duration="6050000" />
+      <workItem from="1682352469972" duration="8181000" />
+      <workItem from="1682412181632" duration="4140000" />
+      <workItem from="1682439137493" duration="9022000" />
+      <workItem from="1682496535664" duration="4054000" />
     </task>
     <task id="LOCAL-00001" summary="Java Advanced 3. IO &amp; Strings">
       <created>1671649792448</created>
@@ -72,8 +110,25 @@
       <option name="project" value="LOCAL" />
       <updated>1671649792448</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Java Advanced 3. IO &amp; Strings">
+      <created>1671649960581</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671649960581</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Java Advanced 3. IO &amp; Strings">
+      <created>1671650012643</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671650012643</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

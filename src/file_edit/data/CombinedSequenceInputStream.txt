@@ -1,0 +1,3 @@
+SequenceInputStream1
+Yellow duckSequenceInputStream2
+Red heart
