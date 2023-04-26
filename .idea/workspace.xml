@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c57aa2f-e360-4e5b-a43d-25ffe5f1c1c1" name="Changes" comment="Java Advanced 3. IO &amp; Strings">
-      <change afterPath="$PROJECT_DIR$/src/file_edit/data/CombinedSequenceInputStream.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/file_edit/data/Person.ser" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/file_edit/data/PushbackReader.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/file_edit/data/SequenceInputStream1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/file_edit/data/SequenceInputStream2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/file_edit/data/TextNIO.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/file_edit/handlers/HandlerIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/file_edit/handlers/HandlerNIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/file_edit/pojo/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/file_edit/DataOutputStream.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/file_edit/data/DataOutputStream.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/file_edit/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/file_edit/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/file_edit/TextBufferedWriter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/file_edit/data/TextBufferedWriter.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/file_edit/TextFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/file_edit/data/TextFile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/file_edit/TextFileWriter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/file_edit/data/TextFileWriter.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/file_edit/TextPrintWriter.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/file_edit/data/TextPrintWriter.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +87,7 @@
       <workItem from="1682352469972" duration="8181000" />
       <workItem from="1682412181632" duration="4140000" />
       <workItem from="1682439137493" duration="9022000" />
-      <workItem from="1682496535664" duration="4054000" />
+      <workItem from="1682496535664" duration="5091000" />
     </task>
     <task id="LOCAL-00001" summary="Java Advanced 3. IO &amp; Strings">
       <created>1671649792448</created>
@@ -124,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671650012643</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Java Advanced 3. IO &amp; Strings">
+      <created>1682501192275</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682501192275</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
